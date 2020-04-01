@@ -1,6 +1,6 @@
 # Clover Gigabyte z390 Gaming X i5 9600kf Rx 5500 XT Build
 
-My EFI With Clover 5.5.0 Catalina 10.15.3
+My EFI With Clover & Catalina 10.15.3
 
 **Not maintenance, Now Use the Opencore to boot Hackintosh.**
 If you want to change to opencore, you can check this repo.
@@ -15,7 +15,6 @@ If you want to change to opencore, you can check this repo.
 
 ### Clover
 
-- OpenCore 5.5.0
 
 ### Hardware
 
